@@ -1,0 +1,9 @@
+- Déplacer la mise en forme du titre dans le traitement 1.3 ou 1.4
+- Etudier les autres fichiers et s'adapter à leur mise en forme
+
+- Enregistrer séparément différents pre-processings
+
+- Citer une phrase/un bloc de phrase au hasard depuis le corpus
+- Markov Chain ordres supérieurs
+- RNN
+- Transformers 
