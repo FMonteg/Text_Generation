@@ -4,6 +4,5 @@
 - Enregistrer séparément différents pre-processings
 
 - Citer une phrase/un bloc de phrase au hasard depuis le corpus
-- Markov Chain ordres supérieurs
 - RNN
 - Transformers 
